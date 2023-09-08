@@ -1,3 +1,5 @@
+github.com/abdfnx/gosh v0.4.0 h1:cBvmHw8yV3oXiAcORpi7Oip+MT6/5HBMOrvpn0cZNYM=
+github.com/abdfnx/gosh v0.4.0/go.mod h1:MUTJRMc7FpBb/bFnZ2U0hj48zj8284J1cS3AUiIRZ/o=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
 github.com/andybalholm/brotli v1.0.5/go.mod h1:fO7iG3H7G2nSZ7m0zPUDn85XEX2GTukHGRSepvi9Eig=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

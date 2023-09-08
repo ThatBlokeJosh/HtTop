@@ -36,6 +36,11 @@ func Net(c *fiber.Ctx) error {
   return c.JSON(net)
 }
 
+func Kill(c *fiber.Ctx) error {
+  utils.Kill(c.Query("name"))
+  return c.SendStatus(200)
+}
+
 func Listen() {
 
 
@@ -54,6 +59,7 @@ func Listen() {
   app.Get("/api/proc", Proc)
   app.Get("/api/disk", Disk)
   app.Get("/api/net", Net)
+  app.Get("/api/proc/kill", Kill)
 
   app.Listen(":3000")
 }
