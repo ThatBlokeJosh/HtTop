@@ -1,4 +1,4 @@
-module restop
+module httop
 
 go 1.21.0
 
@@ -7,6 +7,7 @@ require (
 	github.com/gofiber/fiber/v2 v2.49.0
 	github.com/gofiber/template/html/v2 v2.0.5
 	github.com/shirou/gopsutil/v3 v3.23.7
+	golang.org/x/crypto v0.7.0
 )
 
 require (

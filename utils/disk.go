@@ -2,7 +2,7 @@ package utils
 
 import (
   "github.com/shirou/gopsutil/v3/disk"
-  "restop/utils/math"
+  "httop/utils/math"
 )
 
 type Disk struct {

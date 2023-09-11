@@ -1,7 +1,7 @@
 package main
 
 import (
-  "restop/server"
+  "httop/server"
 )
 
 func main() {

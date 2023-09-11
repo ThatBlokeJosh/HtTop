@@ -2,7 +2,7 @@ package utils
 
 import (
   "github.com/shirou/gopsutil/v3/mem"
-  "restop/utils/math"
+  "httop/utils/math"
 )
 
 type Memory struct {

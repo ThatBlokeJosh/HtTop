@@ -3,7 +3,7 @@ package utils
 import (
   "github.com/shirou/gopsutil/v3/process"
   "sort"
-  "restop/utils/math"
+  "httop/utils/math"
 )
 
 type Process struct {

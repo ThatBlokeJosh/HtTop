@@ -2,7 +2,7 @@ package utils
 
 import (
   "github.com/shirou/gopsutil/v3/net"
-  "restop/utils/math"
+  "httop/utils/math"
 )
 
 var lastSent float64

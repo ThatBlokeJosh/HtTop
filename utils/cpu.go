@@ -6,7 +6,7 @@ import (
 	"github.com/shirou/gopsutil/v3/cpu"
 	"github.com/shirou/gopsutil/v3/host"
 
-  "restop/utils/math"
+  "httop/utils/math"
 )
 
 type CPU struct {
